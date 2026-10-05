@@ -1,26 +1,13 @@
-# Hey, I'm Refael 👋
+# Refael Y. Harush (רפאל הרוש)
 
-**Full-Stack Developer & AI Instructor** based in Israel.
+**AI Implementation & Automation Specialist** · Israel
 
-I build SaaS products, teach AI, and automate everything I can.
+I build WhatsApp bots, AI agents and n8n automations, and connect them to systems
+like payments, email and lead management. I also teach AI to business owners, in Hebrew.
 
-### What I Do
+- 🌐 [refaelyharush.com](https://refaelyharush.com) · [English](https://refaelyharush.com/en)
+- 💼 Looking for a full-time AI implementation role: [CV and contact](https://refaelyharush.com/career)
+- 📖 Guide (Hebrew): [WhatsApp bot with AI for a small business: what to check before you build or buy](https://refaelyharush.com/guides/whatsapp-bot)
 
-- 🚀 **Y-Community** — Israeli SaaS platform with 40+ tools (Next.js, Supabase, TypeScript)
-- 🤖 **AI Teaching** — 50+ lessons delivered, helping professionals leverage AI
-- 📊 **Trading Tools** — Algorithmic trading journal & signals system
-- 🔧 **Automation** — Telegram bots, n8n workflows, AI agent orchestration
-
-### Tech Stack
-
-`TypeScript` `Next.js` `React` `Node.js` `Supabase` `PostgreSQL` `Tailwind CSS` `Vercel` `Docker`
-
-### Currently
-
-- Building [y-community.co.il](https://y-community.co.il) — a full-featured SaaS platform
-- Teaching AI to professionals and businesses
-- Scaling automation with 9 Telegram bots and AI agents
-
----
-
-*"I don't teach AI. I give you an unfair advantage."*
+### What I work with
+n8n · WhatsApp Business API · Telegram Bots · Claude Code · Claude · ChatGPT · ElevenLabs · Next.js · Supabase · Docker
